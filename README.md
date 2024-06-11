@@ -12,17 +12,17 @@ Attack - Left Click
 
 
 **Assets Used**
+
 Font
-
 https://www.fontspace.com/pixel-gosub-font-f18590 
-Enemies
 
+Enemies
 https://snoblin.itch.io/pixel-rpg-skeleton-free
 https://free-game-assets.itch.io/free-field-enemies-pixel-art-for-tower-defense 
+
 Environment
-
 https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605 
-Music
 
+Music
 https://uppbeat.io/track/kevin-macleod/cyborg-ninja 
 
