@@ -1,6 +1,6 @@
-**Submission to SkillUp Summer-TIME JAM! | UpSkill 2024 
+**Submission to SkillUp Summer-TIME JAM! | UpSkill 2024** 
 
-Theme: 100 Lines Limited**
+*Theme: 100 Lines Limited*
 
 Use your sword to protect the Goddess Statue from endless waves of enemies. Gather loot from enemies to upgrade your power to strengthen your defences!
 
@@ -11,8 +11,7 @@ Use your sword to protect the Goddess Statue from endless waves of enemies. Gath
 Attack - Left Click
 
 
-**Assets Used
-**
+**Assets Used**
 Font
 
 https://www.fontspace.com/pixel-gosub-font-f18590 
